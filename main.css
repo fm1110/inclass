@@ -102,13 +102,13 @@ h4 {
     float: left;
     margin: 1px;
 	height: 5px
-	width: 1px
+	width=1px
 
 }
 
 
 #footer-image {
     
-   height: 50px;
-    width=50px;
+   height: 10px;
+    width=10px;
 }
